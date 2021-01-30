@@ -1,0 +1,7 @@
+---
+title: "landcover monitoring north africa"
+author: "Mustapha Lateb"
+date: "30/01/2021"
+output: pdf_document
+---
+
